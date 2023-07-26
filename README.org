@@ -1,0 +1,10 @@
+* cl-bloom-filter
+
+Just another Common Lisp bloom filter implementation, enjoy it!
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alangalvino/cl-bloom-filter.git   |
+| commit  | {"messa  |
+| systems | cl-bloom-filter |
+|---------+-------------------------------------------|
+
