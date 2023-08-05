@@ -4,7 +4,7 @@ Just another Common Lisp bloom filter implementation, enjoy it!
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/alangalvino/cl-bloom-filter.git   |
-| commit  | {"messa  |
+| commit  | 0e0ba3d  |
 | systems | cl-bloom-filter |
 |---------+-------------------------------------------|
 
